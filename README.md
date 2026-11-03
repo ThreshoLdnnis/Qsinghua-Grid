@@ -1,5 +1,7 @@
 # Qsinghua-Grid
 
+![Qsinghua-Grid GitHub repository homepage](github_cover.jpg)
+
 天格 GRID11B 对 GRB 260714B 的事件数据分析作业。Notebook 使用 pandas 清洗事件表、DuckDB 去重和排序、NumPy 分箱，并用 Matplotlib 绘制 E_0 探测器的光变曲线与计数能谱。
 
 ## 结果
@@ -20,6 +22,7 @@
 - `GRID11B_GRB260714B_events_homework.csv`：原始事件数据
 - `light_curve.png`：光变曲线
 - `count_spectrum.png`：计数能谱
+- `github_cover.jpg`：仓库主页截图，作为 README 封面
 
 ## 运行
 
